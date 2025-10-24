@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+  <title id="title">BeyondOne efficiency team</title>
+  <desc id="desc">Abstract illustration representing the BeyondOne operations efficiency team collaborating.</desc>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" fill="url(#gradient)" rx="24" />
+  <g fill="#f8fafc" opacity="0.85">
+    <circle cx="76" cy="92" r="36" />
+    <circle cx="160" cy="76" r="42" />
+    <circle cx="236" cy="104" r="30" />
+  </g>
+  <g fill="#0ea5e9" opacity="0.65">
+    <path d="M60 150c0-26 22-46 52-46s52 20 52 46z" />
+    <path d="M144 150c0-22 24-40 54-40s54 18 54 40z" />
+  </g>
+  <g stroke="#38bdf8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 60l24-18 24 18" />
+    <path d="M164 44l24-18 24 18" />
+    <path d="M220 96l18-14 18 14" />
+  </g>
+  <g fill="#fef3c7" opacity="0.35">
+    <circle cx="48" cy="32" r="8" />
+    <circle cx="280" cy="40" r="10" />
+    <circle cx="260" cy="148" r="6" />
+  </g>
+</svg>
